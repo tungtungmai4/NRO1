@@ -61,7 +61,7 @@ termux-setup-storage
 
 apt-get install curl bc git zip wget ncurses-utils
 
-git clone https://github.com/Mad-Neko/Nro-Offline
+git clone https://github.com/tungtungmai4/NRO1
 
 cd Nro-Offline
 
