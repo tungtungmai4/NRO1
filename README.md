@@ -1,27 +1,4 @@
-<br/>
-<p align="center">
-  <a href="https://github.com/Mad-Neko/Nro-Offline">
-    <img src="https://media0.giphy.com/media/t2UyODDiTuENGVtd78/200.webp?cid=ecf05e476bw62k1t5xzmype20ehyuyh2ihk9gzmaq2xfj8i8&rid=200.webp&ct=g" alt="Logo" width="206" height="200">
-  </a>
 
-  <h3 align="center">NRO-OFFLINE</h3>
-
-  <p align="center">
-    Ngọc Rồng Offline là Trò Chơi Ngoại Tuyến với cốt truyện xoay quanh bộ truyện tranh 7 viên Ngọc Rồng. Người chơi sẽ hóa thân thành một trong những anh hùng của 3 hành tinh: Trái Đất, Xayda, Namếc.Luyện tập, tăng cường sức mạnh và kỹ năng. Đoàn kết cùng chiến đấu chống lại các thế lực hung ác.
-    <br/>
-    <br/>
-    <a href="https://github.com/Mad-Neko/Nro-Offline"><strong>Explore the docs »</strong></a>
-    <br/>
-    <br/>
-    <a href="https://github.com/Mad-Neko/Nro-Offline">View Demo</a>
-    .
-    <a href="https://github.com/Mad-Neko/Nro-Offline/issues">Report Bug</a>
-    .
-    <a href="https://github.com/Mad-Neko/Nro-Offline/issues">Request Feature</a>
-  </p>
-</p>
-
-![Downloads](https://img.shields.io/github/downloads/Mad-Neko/Nro-Offline/total) ![Contributors](https://img.shields.io/github/contributors/Mad-Neko/Nro-Offline?color=dark-green) ![Forks](https://img.shields.io/github/forks/Mad-Neko/Nro-Offline?style=social) ![Stargazers](https://img.shields.io/github/stars/Mad-Neko/Nro-Offline?style=social) ![Issues](https://img.shields.io/github/issues/Mad-Neko/Nro-Offline) 
 
 ## Table Of Contents
 
