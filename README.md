@@ -89,46 +89,4 @@ dragon
 menu
 ```
 
-## Usage
-
-1. Sign up account
-
-- You can sign up for a free account right in the game or on the Localhost site.
-
-2. Some basic information
-
-- Senzu bean is used to increase KI and HP.
-- You can only bring 10 seeds, if you want to bring more, please ask someone in your clan.
-- To increase your abilities and skills, you can register for free training at Master Kame, if you have enough potential points.
-- You cannot use flying skills if all KI is used up.
-- Big raid with friends will add more hit points and potential.
-- Practice with friends in the right area will bring more potential.
-- When the bean is upgraded, the bean will recover more HP and KI.
-- On regular match days, if you win you can get free gems.
-- Chicken thighs will recover 100% HP KI. Tomato recovers 100% KI. Carrot recovers 100% HP.
-- The Senzu bean tree continues to bear fruit after a while, even if you are offline.
-- After 3 days of not participating in the game, you will reduce strength training.
-- You will reduce your strength if you are killed by enemies or monsters, but will increase your stamina to fight again.
-
-
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-* If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/Mad-Neko/Nro-Offline/issues/new) to discuss it, or directly create a pull request after you edit the server with necessary changes.
-* Please make sure you check your spelling and grammar.
-* Create individual PR for each suggestion.
-* Please also read through the [Code Of Conduct](https://github.com/Mad-Neko/Nro-Offline/blob/main/CODE_OF_CONDUCT.md) before posting your first idea as well.
-
-
-## Authors
-
-* **MAD** - *Dev* - [MAD](https://github.com/Mad-Neko/) - *Nro Offline Termux*
-* **** - ** - []() - **
-* **** - ** - []() - **
-
-## Acknowledgements
-
-* [NRO Offline ](https://github.com/Mad-Neko/Nro-Offline)
-* [NSO Offline](coming soon)
-* [HSO Offline](coming soon)
 
